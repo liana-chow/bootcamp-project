@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>I dont think it's working</1>
-<p>Gt</p>
-</body>
-</html>
